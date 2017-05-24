@@ -1,3 +1,4 @@
+You can view my google homepage project [here ](https://m-benoit.github.io/google-homepage/)
 
 This is an exercise from the Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css).
 
