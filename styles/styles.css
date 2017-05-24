@@ -113,7 +113,7 @@ color: black;
   margin-top: 27px;
   border-radius: 1px;
   display: inline-block;
-  
+
 
 }
 
@@ -144,6 +144,7 @@ color: black;
  position: fixed;
  width: 100vw;
  bottom: 0;
+ left: 0;
 
  }
 
